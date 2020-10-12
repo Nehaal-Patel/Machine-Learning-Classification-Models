@@ -8,7 +8,7 @@ This repo covers the basic machine learning classification  projects/problems us
 
 ## [Project 2 : German Credit Classification ]
 
-* The file German_Credit.ipynb is the latest edition, applying complex functions and creating a framework where data can go through few models and train test, predict, and evaluate which I learned as I progressed through the intermediate and advanced training and applied it to this problem German Credit : Using Logistic Regression Classifier, Naive Bayes Classifier, K-nearest-neighbors Classifier, K-nearest-neighbors Classifier, and Multilayer Preceptron Classifier, Decision Trees and Random Forest for warm start ML to classify person by good or bad class in terms of credit, and evaluting the result by Classification Report. 
+* The file German_Credit.ipynb is the latest edition, applying complex functions and creating a framework where data can go through few models and train test, predict, and evaluate which I learned as I progressed through the intermediate and advanced training and applied it to this problem German Credit : Using Logistic Regression Classifier, Naive Bayes Classifier, K-nearest-neighbors Classifier, K-nearest-neighbors Classifier, and Multilayer Preceptron Classifier, Decision Trees and Random Forest for warm start ML to classify person by good or bad class in terms of credit, and evaluating the result by Classification Report. 
 
 
 ## [Project 3 : BBC Text Classification ]
